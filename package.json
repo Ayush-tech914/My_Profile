@@ -1,7 +1,7 @@
 {
   "name": "finalup",
   "version": "0.1.0",
-  "hompage": "https//:Ayush-tech914/github.io/My_Profile",
+  "homepage": "https://Ayush-tech914/github.io/My_Profile",
   "private": true,
   "dependencies": {
     "cra-template": "1.1.2",
